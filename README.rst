@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbadbadc0ffee%2Fpretalx.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbadbadc0ffee%2Fpretalx?ref=badge_shield)
+
 .. SPDX-FileCopyrightText: 2017-present Tobias Kunze
 .. SPDX-License-Identifier: Apache-2.0
 
@@ -140,3 +142,7 @@ pretalx installations.
 .. _docs.pretalx.org: https://docs.pretalx.org
 .. _Mastodon: https://chaos.social/@pretalx
 .. _LinkedIn: https://www.linkedin.com/company/pretalx/
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbadbadc0ffee%2Fpretalx.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbadbadc0ffee%2Fpretalx?ref=badge_large)
